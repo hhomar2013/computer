@@ -18,7 +18,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member shadow">
-              <img src="assets/img/team/3.jpg" alt="" style="height:500px;width: 500px;">
+              <img src="assets/img/team/3.JPG" alt="" style="height:500px;width: 500px;">
               <h4>منه النقيب</h4></h4>
               <span>المعيد</span>
             </div>
@@ -63,7 +63,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member shadow">
-              <img src="assets/img/team/yousef_madbouly.jpg" alt="" style="height:500px;width: 500px;">
+              <img src="assets/img/team/yousef_madbouly.JPG" alt="" style="height:500px;width: 500px;">
               <h4>يوسف السيد المدبولي</h4>
               <span>عضو ألكتروستار</span>
             </div>
