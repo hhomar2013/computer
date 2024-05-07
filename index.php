@@ -136,49 +136,46 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box col-12">
-              <!-- <div class="icon"><i class="bx bxl-dribbble"></i></div> -->
-              <h4><a href="">وحدات الإدخال</a></h4>
-              <p style="text-decoration: underline;"><a href="inputs.php">أقر المزيد</a></p>
+              <div class="icon"><i class="bi bi-keyboard-fill"></i></div>
+              <h4><a href="inputs.php">وحدات الإدخال</a></h4>
+              <!-- <p style="text-decoration: underline;"><a href="inputs.php">أقر المزيد</a></p> -->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box col-12">
-              <!-- <div class="icon"><i class="bx bx-file"></i></div> -->
-              <h4><a href="">وحدات الإخراج</a></h4>
-              <p style="text-decoration: underline;"><a href="outputs.php">أقر المزيد</a></p>
+              <div class="icon"><i class="bi bi-display"></i></div>
+              <h4><a href="outputs.php">وحدات الإخراج</a></h4>
+              <!-- <p style="text-decoration: underline;"><a href="outputs.php">أقر المزيد</a></p> -->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box">
-              <!-- <div class="icon"><i class="bx bx-tachometer"></i></div> -->
-              <h4><a href="">وحدات التخزين</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            <div class="icon-box col-12">
+              <div class="icon"><i class="bi bi-device-hdd"></i></div>
+              <h4><a href="storage.php">وحدات التخزين</a></h4>
+              <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p> -->
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
-              <!-- <div class="icon"><i class="bx bx-world"></i></div> -->
+            <div class="icon-box col-12">
+              <div class="icon"><i class="bi bi-windows"></i></div>
               <h4><a href="">أنظمة التشغيل</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
-              <!-- <div class="icon"><i class="bx bx-slideshow"></i></div> -->
-              <h4><a href="">وحدات المعالجة</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+            <div class="icon-box col-12">
+              <div class="icon"><i class="bi bi-cpu"></i></div>
+              <h4><a href="processing.php">وحدات المعالجة</a></h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-            <div class="icon-box">
-              <!-- <div class="icon"><i class="bx bx-arch"></i></div> -->
-              <h4><a href="">تغذية الطاقة</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+            <div class="icon-box col-12">
+              <div class="icon"><i class="bi bi-power"></i></div>
+              <h4><a href="">اللوحة الأم & تغذية الطاقة</a></a></h4>
             </div>
           </div>
 
@@ -193,9 +190,9 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Team</span>
-          <h2>Team</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>الفــريق</span>
+          <h2>الفــريق</h2>
+          <!-- <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p> -->
         </div>
 
         <div class="row">
