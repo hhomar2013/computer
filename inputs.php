@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>الكتروستار</title>
+  <title>ألكتروهيلب</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -34,8 +34,8 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
-      <!-- <a href="index.html" class="logo"><img src="assets/img/website logo.png" alt="" class="img-fluid" style="width: 100px;height: 100px;"></a> -->
-      <h1 class="logo"><a href="index.php">الكتروستار</a></h1>
+      <a href="index.php" class="logo"><img src="assets/img/44.png" alt="" class="img-fluid" style="width: 100%;height: 100%;"></a>
+      <!-- <h1 class="logo"><a href="index.php">الكتروستار</a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
       
       <nav id="navbar" class="navbar">
