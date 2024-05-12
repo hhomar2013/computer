@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>ألكتروهيلب</title>
+  <title>ألكتروهيلب | اللوحة الأم و الطاقة</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
