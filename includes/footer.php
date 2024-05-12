@@ -6,7 +6,7 @@
 
     <div class="row  justify-content-center">
       <div class="col-lg-6">
-        <h3>ألكتروستار</h3>
+        <h3>ألكتروهيلب</h3>
         <p></p>
       </div>
     </div>
@@ -26,7 +26,7 @@
     &copy; Copyright <strong><span>ElectroStar</span></strong>. All Rights Reserved
   </div> -->
   <div class="credits">
-      التصميم من  <a href="https://bootstrapmade.com/">❤️ الكتروستار سليوشن</a>
+      التصميم من  <a href="">❤️ ألكتروهيلب سليوشن</a>
   </div>
 </div>
 </footer>

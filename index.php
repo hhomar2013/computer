@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>الكتروستار</title>
+  <title>ألكتروهيلب</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -35,15 +35,15 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
       <!-- <a href="index.html" class="logo"><img src="assets/img/website logo.png" alt="" class="img-fluid" style="width: 100px;height: 100px;"></a> -->
-      <h1 class="logo"><a href="index.php">الكتروستار</a></h1>
+      <h1 class="logo"><a href="index.php">ألكتروهيلب</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">الرئيسية</a></li>
-          <li><a class="nav-link scrollto" href="#about">عن ألكتروستار</a></li>
+          <li><a class="nav-link scrollto" href="#about">عن ألكتروهيلب</a></li>
           <li><a class="nav-link scrollto" href="#services">المقررات</a></li>
-          <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
+          <li><a class="nav-link scrollto " href="#portfolio">الإشراف</a></li>
           <li><a class="nav-link scrollto" href="#team">الفريق</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -77,7 +77,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1>الكتروستار</h1>
+          <h1>ألكتروهيلب</h1>
           <h2>إنتاج مقرر صيانة الحاسب الالي</h2>
           <!-- <div class="d-flex">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -85,7 +85,7 @@
           </div> -->
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/44.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -100,10 +100,10 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="assets/img/about.png" class="img-fluid" alt="">
+            <img src="assets/img/hero-img.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
-            <h3>مين ألكتروستار ؟</h3>
+            <h3>مين ألكتروهيلب ؟</h3>
             <p class="fst-italic">
               أحنا متخصصين في صيانه جميع أعطال الحاسب الالى
             </p>
@@ -184,7 +184,7 @@
       </div>
     </section><!-- End Services Section -->
 
-
+    <?php include('includes/managers.php') ?>
     <!-- ======= Team Section ======= -->
     <?php include('includes/team.php') ?>
     <!-- End Team Section -->
