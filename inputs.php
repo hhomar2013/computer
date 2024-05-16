@@ -210,9 +210,12 @@
 
       </div>
     </section><!-- End Portfolio Details Section -->
-    <section>
-      <video src="assets/video/powerpoint/inputs.mp4" width="50%" height="50%" style="padding: 50px;" controls></video>
-    </section>
+    <div class="row">
+      <div class="col-12">
+      <video src="assets/video/powerpoint/inputs.mp4" width="50%" height="100%" style="padding: 50px;" controls></video>
+
+      </div>
+    </div>
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
