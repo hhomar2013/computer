@@ -175,19 +175,19 @@
                   <li>Unix طور عام 1969 يتمتع بشهرة كبيرة في الأوساط الأكاديمية لدوره الكبير في تطوير شبكة إنترنت.</li>
                   <li>Solaris: من شركة Sun هو نظام شبيه ل Unix موجه للخوادم بشكل عام.</li>
                 </ul>
-           
-           
-           
-           
-           
-            </div>
 
-           
-
+            </div>        
           </div>
 
         </div>
 
+        <div>
+          <p>
+            <a href="https://drive.google.com/file/d/1YRwzpIqFdcc2z-gn5njMrE9pJ_Kjby-7/view?usp=drive_link">
+              فيديو تفاعلي
+            </a>
+          </p>
+        </div>
       </div>
     </section><!-- End Portfolio Details Section -->
 
