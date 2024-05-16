@@ -183,7 +183,7 @@
 
         <div>
           <p>
-            <a href="https://drive.google.com/file/d/1YRwzpIqFdcc2z-gn5njMrE9pJ_Kjby-7/view?usp=drive_link">
+            <a  href="https://drive.google.com/file/d/1YRwzpIqFdcc2z-gn5njMrE9pJ_Kjby-7/view?usp=drive_link">
               فيديو تفاعلي
             </a>
           </p>
