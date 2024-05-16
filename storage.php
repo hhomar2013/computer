@@ -243,6 +243,13 @@
         </div>
 
       </div>
+
+  <hr>
+      <div class="row">
+        <div class="col-6">
+        <video src="assets/video/live/hdd.mp4" width="100%" height="100%" style="padding: 50px;" controls></video>
+        </div>
+      </div>
     </section><!-- End Portfolio Details Section -->
 
   </main><!-- End #main -->

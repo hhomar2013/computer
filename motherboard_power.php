@@ -241,6 +241,22 @@
         </div>
 
       </div>
+
+      <hr>
+
+      <div class="row">
+        <div class="col-6">
+        <video src="assets/video/live/motherboard.mp4" width="100%" height="100%" style="padding: 50px;" controls></video>
+        </div>
+        <div class="col-6">
+        <video src="assets/video/powerpoint/motherboard.mp4" width="100%" height="100%" style="padding: 50px;" controls></video>
+        </div>
+        <div class="col-6">
+        <video src="assets/video/live/powersupply.mp4" width="100%" height="100%" style="padding: 50px;" controls></video>
+        </div>
+      </div>
+
+
     </section><!-- End Portfolio Details Section -->
 
   </main><!-- End #main -->
