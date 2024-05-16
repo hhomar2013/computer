@@ -63,7 +63,7 @@
             </ul>
           </li> -->
           <!-- <li><a class="nav-link scrollto" href="#contact">اتصل بنا</a></li> -->
-          <!-- <li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
+          <li><a class="getstarted scrollto" target="_blank" href="https://drive.google.com/drive/folders/128INB2u0PYq_jFT-bXgW4Yl8cd1-L5iQ?usp=sharing">الأختبارات</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
