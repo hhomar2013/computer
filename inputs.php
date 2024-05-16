@@ -211,7 +211,7 @@
       </div>
     </section><!-- End Portfolio Details Section -->
     <section>
-      <video src="assets/video/powerpoint/output.mp4" width="100%" height="30%" style="padding: 50px;" controls></video>
+      <video src="assets/video/powerpoint/output.mp4" width="100%" height="25%" style="padding: 50px;" controls></video>
     </section>
   </main><!-- End #main -->
 
